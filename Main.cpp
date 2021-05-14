@@ -1,6 +1,6 @@
-#include<iostream>
-#include<cstdlib>
-#include<ctime>
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
 #include<chrono>
 #include <cstdio>
 #include "Sorting.h"
