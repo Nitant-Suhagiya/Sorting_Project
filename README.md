@@ -10,4 +10,5 @@ Sorting Algorithms written in C++. The program generates random array of numbers
 
 
 ***How to run the executable?***
+
 To run Sorting Project.exe You must download Sorting Project.exe to your local computer.
